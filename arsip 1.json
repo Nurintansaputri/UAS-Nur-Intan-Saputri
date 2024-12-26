@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "676cabb46e91810432c73bf8"
+  },
+  "nama": "Nurintansaputri",
+  "NISN": "1122334455",
+  "gender": "perempuan",
+  "ttl": "jakarta 11-06-2005",
+  "agama": "islam",
+  "anak": "ketiga",
+  "status": "anak",
+  "alamat": "telagakahuripan",
+  "namaortu": "salim",
+  "nilairata-rata": "90"
+}]
